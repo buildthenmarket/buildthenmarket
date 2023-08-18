@@ -4,8 +4,11 @@
 # Tech consulting from Zero to Enterprise.
 
 ➢	B2B Web Design 
+
 ➢	Software Project Management
+
 ➢	Strategy Consulting 
+
 ➢	Digital Marketing
 
 > About Us
