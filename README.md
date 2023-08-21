@@ -4,17 +4,16 @@
 # Tech consulting from Zero to Enterprise.
 
 ➢	B2B Web Design 
-
+➢	responsive web design (mobile-friendly)
 ➢	Software Project Management
-
+➢	SaaS cloud apps
 ➢	Strategy Consulting 
-
 ➢	Digital Marketing
 
 > About Us
 > ===
 
-We create engaging and interactive web and mobile apps that give our clients a competitive advantage.
+We create engaging web and mobile apps that give our clients a competitive advantage at a fraction of the going rate. Our belief is that quality work and adding a personal touch will help us to succeed.
 
 # History
 
