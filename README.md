@@ -1,7 +1,7 @@
 > BUILDthenMARKET
 > ===
 
-# Tech consulting from Zero to Enterprise.
+## Tech consulting from Zero to Enterprise.
 
 ➢	B2B Web Design 
 ➢	responsive web design (mobile-friendly)
@@ -15,7 +15,7 @@
 
 We create engaging web and mobile apps that give our clients a competitive advantage at a fraction of the going rate. Our belief is that quality work and adding a personal touch will help us to succeed.
 
-# History
+## History
 
 In Business for 8 years, BUILD then MARKET was officially launched on February 1st, 2016.
 
