@@ -1,5 +1,4 @@
-> BUILDthenMARKET
-> ===
+# BUILDthenMARKET
 
 ## Tech consulting from Zero to Enterprise.
 
@@ -10,8 +9,7 @@
 ➢	Strategy Consulting 
 ➢	Digital Marketing
 
-> About Us
-> ===
+## About Us
 
 We create engaging web and mobile apps that give our clients a competitive advantage at a fraction of the going rate. Our belief is that quality work and adding a personal touch will help us to succeed.
 
