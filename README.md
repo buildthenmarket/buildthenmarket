@@ -2,11 +2,16 @@
 
 ## Tech consulting from Zero to Enterprise.
 
-➢	B2B Web Design 
+➢	B2B Web Design
+
 ➢	responsive web design (mobile-friendly)
+
 ➢	Software Project Management
+
 ➢	SaaS cloud apps
+
 ➢	Strategy Consulting 
+
 ➢	Digital Marketing
 
 ## About Us
