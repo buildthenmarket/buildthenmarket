@@ -27,3 +27,14 @@ Projects created during that time:
 - 3 Android/iOS Apps
 - 7 Uniquely Branded Websites
 - Over 35 Client Websites
+
+# Specialized Proficiencies
+
+## 1. accessibility guidelines
+
+- Use appropriate ARIA (Accessible Rich Internet Applications) roles and attributes to enhance the accessibility 
+- develop code that adheres to the accessibility standards such as the Web Content Accessibility Guidelines (WCAG)
+
+## 2. Custom CSS Design Systems
+
+
