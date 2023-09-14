@@ -24,11 +24,10 @@ We create engaging web and mobile apps that give our clients a competitive advan
 
 In Business for 8 years, BUILD then MARKET was officially launched on February 1st, 2016.
 
-Projects created during that time:
-
-- 3 Android/iOS Apps
+Active Projects:
+- 1 Android/iOS App
 - 7 Uniquely Branded Websites
-- Over 35 Client Websites
+- 5 Client Websites
 
 # Specialized Proficiencies
 
