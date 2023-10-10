@@ -1,8 +1,8 @@
 # BUILDthenMARKET
 
 <picture>
-  <source srcset="https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2FArtboard%201%400.5x.png?alt=media&token=75e45069-1327-4656-91ba-58dc9d9650e1" media="(prefers-color-scheme: dark)">
-  <img src="https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2FLogo%20white%20-%20BUILD%20then%20MARKET%202023.png?alt=media&token=667f478c-9bc3-4dcb-8d3b-27865a5c8b62">
+  <source srcset="https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2FLogo%20white%20-%20BUILD%20then%20MARKET%202023.png?alt=media&token=667f478c-9bc3-4dcb-8d3b-27865a5c8b62" media="(prefers-color-scheme: dark)">
+  <img src="https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2FArtboard%201%400.5x.png?alt=media&token=75e45069-1327-4656-91ba-58dc9d9650e1">
 </picture>
 
 
