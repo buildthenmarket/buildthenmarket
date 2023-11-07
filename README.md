@@ -5,20 +5,19 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2FArtboard%201%400.5x.png?alt=media&token=75e45069-1327-4656-91ba-58dc9d9650e1">
 </picture>
 
+## Tech consulting from Zero to Enterprise
 
-## Tech consulting from Zero to Enterprise.
+➢ B2B Web Design
 
-➢	B2B Web Design
+➢ responsive web design (mobile-friendly)
 
-➢	responsive web design (mobile-friendly)
+➢ Software Project Management
 
-➢	Software Project Management
+➢ SaaS cloud apps
 
-➢	SaaS cloud apps
+➢ Strategy Consulting
 
-➢	Strategy Consulting 
-
-➢	Digital Marketing
+➢ Digital Marketing
 
 ## About Us
 
@@ -29,17 +28,44 @@ We create engaging web and mobile apps that give our clients a competitive advan
 In Business for 8 years, BUILD then MARKET was officially launched on February 1st, 2016.
 
 Active Projects:
+
 - 1 Android/iOS App
 - 7 Uniquely Branded Websites
 - 5 Client Websites
 
-# Specialized Proficiencies
+## Specialized Proficiencies
 
-## 1. accessibility guidelines
+### UX Engineering
 
-- Use appropriate ARIA (Accessible Rich Internet Applications) roles and attributes to enhance the accessibility 
+- HTML (writing clean, semantic markup)
+- CSS (Modular, scalable)
+- CSS methodologies (BEM, SMACSS, OOCSS)
+- CSS preprocessors (something like LESS, SCSS, PostCSS)
+- Modern CSS (Flexbox, Grid)
+- based on design mocks, Create user-experiences from low-fidelity sketches or hi-fidelity pixel perfect mockups for web apps, desktop apps, and eCommerce sites
+- Landing Pages
+- fluency in Adobe CS
+  - Slice high fidelity prototypes (JPG and PNG) in Photoshop
+  - export images from source files
+- Implement clean code solutions for SPA web applications
+
+### accessibility guidelines
+
+- Use appropriate ARIA (Accessible Rich Internet Applications) roles and attributes to enhance the accessibility
 - develop code that adheres to the accessibility standards such as the Web Content Accessibility Guidelines (WCAG)
 
-## 2. Custom CSS Design Systems
+### Custom CSS Design Systems
 
+### Email Development
 
+- Knowledge of CAN-SPAM and e-mail regulatory compliance
+- building out email templates utilizing modular HTML components
+- Eloqua (Oracle)
+- Salesforce Marketing Cloud (SFMC)
+- Use tools such as Litmus to ensure deliverability, fix issues across different email clients and devices, and test how each email renders.
+- Solid experience working in Mailchimp, Constant Contact, Salesforce
+- configure emails to send in a one-time send or a journey-based send campaign
+
+### digital banners
+
+- animated banner ads
