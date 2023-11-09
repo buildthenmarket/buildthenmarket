@@ -7,21 +7,17 @@
 
 ## Tech consulting from Zero to Enterprise
 
-➢ B2B Web Design
+➢ Design
 
-➢ responsive web design (mobile-friendly)
+➢ Business Development
 
 ➢ Software Project Management
-
-➢ SaaS cloud apps
-
-➢ Strategy Consulting
 
 ➢ Digital Marketing
 
 ## About Us
 
-We create engaging web and mobile apps that give our clients a competitive advantage at a fraction of the going rate. Our belief is that quality work and adding a personal touch will help us to succeed.
+In today's age, an effective online presence is crucial for business success. Build Then Market aims to help your company's technology reach its full potential. We create engaging web and mobile apps that give our clients a competitive advantage at a fraction of the going rate. Our belief is that quality work and adding a personal touch will help us to succeed.
 
 ## History
 
@@ -49,12 +45,23 @@ Active Projects:
   - export images from source files
 - Implement clean code solutions for SPA web applications
 
+![front end](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Fdevelop.jpg?alt=media&token=4c2c60ba-afc1-4e54-b593-85ff64768282)
+
+### Design
+
+- Photoshop, Print Design, Product Design
+- Business Cards, Logos, Graphic Design
+
+![web design](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Fweb-design.png?alt=media&token=baa717cd-5540-4934-a084-a79a3b7d6596)
+
 ### accessibility guidelines
 
 - Use appropriate ARIA (Accessible Rich Internet Applications) roles and attributes to enhance the accessibility
 - develop code that adheres to the accessibility standards such as the Web Content Accessibility Guidelines (WCAG)
 
 ### Custom CSS Design Systems
+
+- responsive web design (mobile-friendly)
 
 ### Email Development
 
@@ -66,6 +73,17 @@ Active Projects:
 - Solid experience working in Mailchimp, Constant Contact, Salesforce
 - configure emails to send in a one-time send or a journey-based send campaign
 
-### digital banners
+### Digital Marketing
 
+- SEO
 - animated banner ads
+
+![dig mktg](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Ffunnel.jpg?alt=media&token=f820e3ae-b102-47ce-ab5e-07acaaed2671)
+
+### Project Management
+
+- Strategy Consulting
+- Branding
+- E-Commerce
+
+![mktg](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fservices%2Fbizdev%2Fmktg-content.jpg?alt=media&token=2a62665b-5399-4917-bcfe-bf12c653aedf)
