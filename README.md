@@ -7,11 +7,11 @@
 
 ## Tech consulting from Zero to Enterprise
 
-➢ Design
+➢ [Design](https://github.com/buildthenmarket#Design)
 
 ➢ Business Development
 
-➢ Software Project Management
+➢ [Software Project Management](https://github.com/buildthenmarket#Project-Management)
 
 ➢ Digital Marketing
 
