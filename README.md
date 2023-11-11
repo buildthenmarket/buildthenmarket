@@ -13,7 +13,7 @@
 
 ➢ [Software Project Management](https://github.com/buildthenmarket#Project-Management)
 
-➢ Digital Marketing
+➢ [Digital Marketing](https://github.com/buildthenmarket#Digital-Marketing)
 
 ## About Us
 
