@@ -7,13 +7,17 @@
 
 ## Tech consulting from Zero to Enterprise
 
-➢ Design
+### Table Of Contents
+
+➢ [UX Engineering](#ux-engineering)
+
+➢ [Design](#design)
 
 ➢ Business Development
 
-➢ Software Project Management
+➢ [Software Project Management](#project-management)
 
-➢ Digital Marketing
+➢ [Digital Marketing](#digital-marketing)
 
 ## About Us
 
@@ -29,12 +33,60 @@ Active Projects:
 - 7 Uniquely Branded Websites
 - 5 Client Websites
 
-| <h2>Specialized Proficiencies</h2> | |
+## Specialized Proficiencies
+
+### UX Engineering
+
+|Experience||
 |---|---|
-| <h3>UX Engineering</h3><br>- HTML (writing clean, semantic markup)<br>- CSS (Modular, scalable)<br>- CSS methodologies (BEM, SMACSS, OOCSS)<br>- CSS preprocessors (something like LESS, SCSS, PostCSS)<br>- Modern CSS (Flexbox, Grid)<br>- based on design mocks, Create user-experiences from low-fidelity sketches or hi-fidelity pixel perfect mockups for web apps, desktop apps, and eCommerce sites<br>- Landing Pages<br>- fluency in Adobe CS<br>  - Slice high fidelity prototypes (JPG and PNG) in Photoshop<br>  - export images from source files<br>- Implement clean code solutions for SPA web applications|![front end](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Fdevelop.jpg?alt=media&token=4c2c60ba-afc1-4e54-b593-85ff64768282)
-|![web design](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Fweb-design.png?alt=media&token=baa717cd-5540-4934-a084-a79a3b7d6596)| <h3>Design</h3><br>- Photoshop, Print Design, Product Design<br>- Business Cards, Logos, Graphic Design
-|<h3>accessibility guidelines</h3><br>- Use appropriate ARIA (Accessible Rich Internet Applications) roles and attributes to enhance the accessibility<br>- develop code that adheres to the accessibility standards such as the Web Content Accessibility Guidelines (WCAG) |
-|| <h3>Custom CSS Design Systems</h3><br>- responsive web design (mobile-friendly)
-|<h3>Email Development</h3><br>- Knowledge of CAN-SPAM and e-mail regulatory compliance<br>- building out email templates utilizing modular HTML components<br>- Eloqua (Oracle)<br>- Salesforce Marketing Cloud (SFMC)<br>- Use tools such as Litmus to ensure deliverability, fix issues across different email clients and devices, and test how each email renders.<br>- Solid experience working in Mailchimp, Constant Contact, Salesforce<br>- configure emails to send in a one-time send or a journey-based send campaign
-|![dig mktg](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Ffunnel.jpg?alt=media&token=f820e3ae-b102-47ce-ab5e-07acaaed2671)|<h3>Digital Marketing</h3><br>- SEO<br>- animated banner ads
-|<h3>Project Management</h3><br>- Strategy Consulting<br>- Branding<br>- E-Commerce | ![mktg](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fservices%2Fbizdev%2Fmktg-content.jpg?alt=media&token=2a62665b-5399-4917-bcfe-bf12c653aedf)
+|- HTML (writing clean, semantic markup)<br>- CSS (Modular, scalable)<br>- CSS methodologies (BEM, SMACSS, OOCSS)<br>- CSS preprocessors (something like LESS, SCSS, PostCSS)<br>- Modern CSS (Flexbox, Grid)<br>- based on design mocks, Create user-experiences from low-fidelity sketches or hi-fidelity pixel perfect mockups for web apps, desktop apps, and eCommerce sites<br>- Landing Pages<br>- fluency in Adobe CS<br>  - Slice high fidelity prototypes (JPG and PNG) in Photoshop<br>  - export images from source files<br>- Implement clean code solutions for SPA web applications|![front end](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Fdevelop.jpg?alt=media&token=4c2c60ba-afc1-4e54-b593-85ff64768282)
+
+[Table of Contents ⬆️](#table-of-contents)
+
+### Design
+
+| | Experience |
+|---|---|
+|![web design](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Fweb-design.png?alt=media&token=baa717cd-5540-4934-a084-a79a3b7d6596)| <br>- Photoshop, Print Design, Product Design<br>- Business Cards, Logos, Graphic Design
+
+[Table of Contents ⬆️](#table-of-contents)
+
+### accessibility guidelines
+
+Experience | |
+|---|---|
+|<br>- Use appropriate ARIA (Accessible Rich Internet Applications) roles and attributes to enhance the accessibility<br>- develop code that adheres to the accessibility standards such as the Web Content Accessibility Guidelines (WCAG) |
+
+[Table of Contents ⬆️](#table-of-contents)
+
+### Custom CSS Design Systems
+
+Experience | |
+|---|---|
+||<br>- responsive web design (mobile-friendly)
+
+[Table of Contents ⬆️](#table-of-contents)
+
+### Email Development
+
+Experience | |
+|---|---|
+<br>- Knowledge of CAN-SPAM and e-mail regulatory compliance<br>- building out email templates utilizing modular HTML components<br>- Eloqua (Oracle)<br>- Salesforce Marketing Cloud (SFMC)<br>- Use tools such as Litmus to ensure deliverability, fix issues across different email clients and devices, and test how each email renders.<br>- Solid experience working in Mailchimp, Constant Contact, Salesforce<br>- configure emails to send in a one-time send or a journey-based send campaign
+
+[Table of Contents ⬆️](#table-of-contents)
+
+### Digital Marketing
+
+Experience | |
+|---|---|
+|![dig mktg](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fhome%2Ffunnel.jpg?alt=media&token=f820e3ae-b102-47ce-ab5e-07acaaed2671)|<br>- SEO<br>- animated banner ads
+
+[Table of Contents ⬆️](#table-of-contents)
+
+### Project Management
+
+Experience | |
+|---|---|
+|<br>- Strategy Consulting<br>- Branding<br>- E-Commerce | ![mktg](https://firebasestorage.googleapis.com/v0/b/buildthenmarket-3cb50.appspot.com/o/img%2Fservices%2Fbizdev%2Fmktg-content.jpg?alt=media&token=2a62665b-5399-4917-bcfe-bf12c653aedf)
+
+[Table of Contents ⬆️](#table-of-contents)
